@@ -1,1 +1,1 @@
-<a href="\u006A\u0061\u0076\u0061\u0073\u0063\u0072\u0069\u0070\u0074">Clique aqui</a>
+<script src=xx></script>
