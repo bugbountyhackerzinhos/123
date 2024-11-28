@@ -1,1 +1,7 @@
 [Link](j%61vascript:alert('XSS'))
+[Link](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
+[Link](vbscript:msgbox("XSS"))
+![Image](image.jpg "onload="alert(1)" onload="alert(1)")
+![Image](image.jpg "on%6Coad=alert(1)")
+![Image](data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDEpIj48L3N2Zz4=")
+![Image](image.jpg "on%6Coad=alert(1)")
