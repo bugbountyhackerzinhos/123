@@ -1,2 +1,4 @@
-<a href="javascript:alert('xss')">some text</a>
-[some text](javascript:alert('xss'))
+<blockquote>
+ <p>hello <a name="n"
+ href="javascript:alert('xss')"><em>you</em></a></p>
+</blockquote>
