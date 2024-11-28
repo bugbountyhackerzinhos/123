@@ -1,1 +1,1 @@
-<script src=xx></script>
+aadada
