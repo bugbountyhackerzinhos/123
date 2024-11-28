@@ -1,4 +1,1 @@
-<blockquote>
- <p>hello <a name="n"
- href="javascript:alert('xss')"><em>you</em></a></p>
-</blockquote>
+<a href="data:text/html;base64,amF2YXNjcmlwdDphbGVydCgxCik=">Clique aqui</a>
